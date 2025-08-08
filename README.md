@@ -1,7 +1,7 @@
 # Billionaires_Dashboard
 
 ## About this Project
-In this project I cleaned the billionaires dataset and created an interactive dashboard in excel.
+In this project I cleaned the billionaires dataset and created an interactive dashboard in Excel.
 
 ## My Approach & Tools Used
 I used Excel's pivot tables, charts/graphs and formulas to complete this project.
